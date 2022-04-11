@@ -10,3 +10,12 @@ $(document).ready(function(){
     })
 
 }); 
+
+// new bit 
+$(document).ready(function(){
+    $(".about-section").waypoint(function(direction){
+       $()
+    })
+
+}); 
+//JQ is a bit out of date
